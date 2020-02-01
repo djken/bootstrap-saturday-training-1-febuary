@@ -1,0 +1,13 @@
+.bg-black {
+    background: #000;
+}
+
+.divider2 {
+    border-color:rgb(197, 37, 37);
+
+}
+
+hr{
+    background-color: rgb(165, 37, 37);
+    height: 4px;
+}
